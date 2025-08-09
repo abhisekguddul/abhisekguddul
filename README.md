@@ -484,8 +484,25 @@
     </tr>
     <tr>
 <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/ef3ef069-5f7e-44c8-81ea-6db28a327558" width="100px" height="100px" />
+    <img src="https://github.com/user-attachments/assets/5936801b-6f22-4956-a68e-bc1aeeff0890" width="100px" height="100px" />
 </td    
+<td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/6a4e3793-cbf9-4e51-9f6e-336f0232a192" width="100px" height="100px" />
+</td    
+<td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/7493ed5e-aeca-4b4d-b1e2-e59186d39b51" width="100px" height="100px" />
+</td    
+<td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/18bc8214-1ad4-4ff3-abca-68de5c7cf41d" width="100px" height="100px" />
+</td    
+<td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/ae668b92-29fc-4033-addd-006df3ecd14e" width="100px" height="100px" />
+</td    
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/11f793e8-0a25-4b6f-bc76-73cb96e976f7" width="100px" height="100px" />
+</td  
     </tr>
 </table>
 
@@ -644,6 +661,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
