@@ -426,7 +426,19 @@
 ## Coding Profiles📈
 
 <details>  
+    
+<h1>My Codilo Gobal ranking Badges 🎖️</h1>
 
+<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src=" https://github.com/user-attachments/assets/b6066080-0f68-40a1-88c4-2b5aca9dc51d" width="500" height="500" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src="https://github.com/user-attachments/assets/221904c7-78a9-4346-8a1d-02d5af7179cd" width="640" height="476" />
+    </td>
+  </tr>
+</table>
 
 <h1>My Leet Code Badges 🎖️</h1>
 
@@ -546,19 +558,6 @@
   <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
 <img src="https://github.com/user-attachments/assets/619f5722-81c6-43ee-85d6-35eced880da0" width="100px" height="100px" />
-    </td>
-  </tr>
-</table>
-
-<h1>My Codilo Gobal ranking Badges 🎖️</h1>
-
-<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src=" " width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src=" " width="100px" height="100px" />
     </td>
   </tr>
 </table>
@@ -686,6 +685,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
