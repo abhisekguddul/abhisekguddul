@@ -493,12 +493,16 @@
       <img src="https://github.com/user-attachments/assets/18bc8214-1ad4-4ff3-abca-68de5c7cf41d" width="100px" height="100px" />
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="" width="100px" height="100px" />
+      <img src="https://github.com/user-attachments/assets/f9461104-4c18-41f4-96db-b4593594700b" width="100px" height="100px" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/bb44f834-f4ca-4c89-a2a3-20c22fa6b82d" width="100px" height="100px" />
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/ae668b92-29fc-4033-addd-006df3ecd14e" width="100px" height="100px" />
     </td>
   </tr>
+  
   <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/7493ed5e-aeca-4b4d-b1e2-e59186d39b51" width="100px" height="100px" />
@@ -667,6 +671,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
