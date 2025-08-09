@@ -509,6 +509,12 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
     </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    </td>
   </tr>
 </table>
 
@@ -667,6 +673,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
