@@ -428,84 +428,7 @@
 <details>  
 
 
-<h1>My Leet Code Badges 🎖️</h1>
-
-<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/9f23c014-9135-49d3-b716-acb6d3ebaf51" width="100px" height="100px" />
-    </td>
-<td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/17c5ef59-41d8-4609-a811-63b8e87874a9" width="100px" height="100px" />
-</td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/0c34fa5a-1bba-4b6c-b9e0-72cbd6add8dc" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/563aaacd-a44a-464f-9309-91034762e62a" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/2da416ee-3b99-4a56-8ac0-69f2873d0fb6" width="100px" height="100px" />
-    </td>
-      </tr>
-    <tr>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/4af91a60-f036-4c22-9fff-5b4e43fe67c4" width="100px" height="100px" />
-    </td>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/2d51af11-b520-466b-b571-e3c36f5dfd68" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/c96b3b2c-662e-451d-ac2e-60a6b0e6c3bf" width="100px" height="100px" />
-    </td> 
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
-</td> 
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
-</td> 
-  </tr>
-    <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
-    </td>
-            <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/7af27c7b-e3eb-49b7-aecb-b3b294d29150" width="100px" height="100px" />
-    </td>
-            <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/355f8000-5862-468f-99ff-410ecb94149a" width="100px" height="100px" />
-    </td>
-            <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/6fb8f6bb-7dfb-4691-bcf5-fd290b6a0f4b" width="100px" height="100px" />
-    </td>
-            <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/ef3ef069-5f7e-44c8-81ea-6db28a327558" width="100px" height="100px" />
-    </td>
-    </tr>
-    <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/5936801b-6f22-4956-a68e-bc1aeeff0890" width="100px" height="100px" />
-    </td    
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/6a4e3793-cbf9-4e51-9f6e-336f0232a192" width="100px" height="100px" />
-    </td    
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/7493ed5e-aeca-4b4d-b1e2-e59186d39b51" width="100px" height="100px" />
-    </td    
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/18bc8214-1ad4-4ff3-abca-68de5c7cf41d" width="100px" height="100px" />
-    </td    
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/ae668b92-29fc-4033-addd-006df3ecd14e" width="100px" height="100px" />
-    </td    
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/11f793e8-0a25-4b6f-bc76-73cb96e976f7" width="100px" height="100px" />
-    </td  
-    </tr>
-</table>
-
+ddd
 <h1>My Hackerrank Badges 🎖️</h1>
 
 <table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
@@ -661,6 +584,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
