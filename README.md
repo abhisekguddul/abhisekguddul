@@ -482,6 +482,11 @@
     <img src="https://github.com/user-attachments/assets/ef3ef069-5f7e-44c8-81ea-6db28a327558" width="100px" height="100px" />
 </td>
     </tr>
+    <tr>
+<td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/ef3ef069-5f7e-44c8-81ea-6db28a327558" width="100px" height="100px" />
+</td    
+    </tr>
 </table>
 
 <h1>My Hackerrank Badges 🎖️</h1>
@@ -639,6 +644,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
