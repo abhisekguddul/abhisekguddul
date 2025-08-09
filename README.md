@@ -550,6 +550,19 @@
   </tr>
 </table>
 
+<h1>My Codilo Gobal ranking Badges 🎖️</h1>
+
+<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src=" " width="100px" height="100px" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src=" " width="100px" height="100px" />
+    </td>
+  </tr>
+</table>
+
 <h1>My Coding Ninjas Badges 🎖️</h1>
 
 <table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
@@ -673,6 +686,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
