@@ -455,34 +455,6 @@
   </tr>
 </table>
 
-<!--- <table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/b6066080-0f68-40a1-88c4-2b5aca9dc51d" width="500" height="500" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/221904c7-78a9-4346-8a1d-02d5af7179cd" width="640" height="476" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/b6066080-0f68-40a1-88c4-2b5aca9dc51d" width="500" height="500" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/177e81ca-0d33-4cd6-9ab3-b3a4735f0162" width="640" height="476" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/b6066080-0f68-40a1-88c4-2b5aca9dc51d" width="500" height="500" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/2c4257b9-ce61-4022-8dfc-fb287dafb3c0" width="640" height="476" />
-    </td>
-  </tr>
-</table>
---->
-
 <h1>My Leet Code Badges 🎖️</h1>
 
 <table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
@@ -728,6 +700,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
