@@ -176,26 +176,12 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
   </div>
     <img src="abhisek2004_GSSoC24_Stats.png" height="80%" width="100%" />
-  <!--<img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px"/>
-  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/6.png" width="100px" height="100px" />-->
 </div>
 </details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3> 📱 Social 🌐 </h3>
 <table>
-    <tr>
-        <td><strong>CodePen</strong></td>
-        <td>
-            <a href="https://codepen.io/abhisek2003panda" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhisek2003panda" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
     <tr>
         <td><strong>CodeChef</strong></td>
         <td>
@@ -213,14 +199,6 @@
         </td>
     </tr>
     <tr>
-        <td><strong>Codeforces</strong></td>
-        <td>
-            <a href="https://codeforces.com/profile/abhisek_2003" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhisek_2003" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
         <td><strong>LeetCode</strong></td>
         <td>
             <a href="https://www.leetcode.com/abhisekpanda" target="blank">
@@ -229,26 +207,10 @@
         </td>
     </tr>
     <tr>
-        <td><strong>HackerEarth</strong></td>
-        <td>
-            <a href="https://www.hackerearth.com/@abhisekpanda" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhisekpanda" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
         <td><strong>Discord</strong></td>
         <td>
             <a href="https://discord.gg/abhisek2004panda_" target="blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhisek2004panda_" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td><strong>GeeksforGeeks</strong></td>
-        <td>
-            <a href="https://www.geeksforgeeks.org/user/abhisekpandat6a3/" target="blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/GeeksforGeeks.svg/500px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" height="30" width="40" />
             </a>
         </td>
     </tr>
@@ -701,6 +663,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
