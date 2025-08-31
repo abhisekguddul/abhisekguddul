@@ -183,14 +183,6 @@
 <h3> 📱 Social 🌐 </h3>
 <table>
     <tr>
-        <td><strong>CodeChef</strong></td>
-        <td>
-            <a href="https://www.codechef.com/users/abhisekpanda03" target="blank">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhisekpanda03" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
         <td><strong>HackerRank</strong></td>
         <td>
             <a href="https://www.hackerrank.com/abhisekpanda" target="blank">
@@ -214,30 +206,6 @@
             </a>
         </td>
     </tr>
-<!--     <tr>
-        <td><strong>Codolio</strong></td>
-        <td>
-            <a href="https://codolio.com/profile/abhisek2004/card" target="_blank">
-        <img src="https://codolio.com/path-to-codolio-logo.png" alt="Codolio" height="30" width="40" />
-    </a>
-        </td>
-    </tr> -->
-<!--     <tr> -->
-<!--         <td><strong>Coding Ninjas</strong></td>
-        <td>
-            <a href="https://www.naukri.com/code360/profile/9ef671da-74d1-4b3e-a192-5c1648a7c6ec" target="blank">
-                <img src="https://www.codingninjas.com/assets/images/logo-dark.png" alt="Coding Ninjas" height="30" width="40" />
-            </a>
-        </td> -->
-<!--     </tr> -->
-<!--     <tr>
-        <td><strong>Dev.to</strong></td>
-        <td>
-            <a href="https://dev.to/abhisek_panda" target="blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dev_to_logo.svg/2048px-Dev_to_logo.svg.png" alt="abhisek_panda" height="30" width="40" />
-            </a>
-        </td>
-    </tr> -->
 </table>
 
 
@@ -266,33 +234,43 @@
 
 <table>
     <tr>
-        <td><strong>Programming Languages</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" /></td>
-    </tr>
-    <tr>
-        <td><strong>Database Technologies</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark" /></td>
-    </tr>
-    <tr>
         <td><strong>Frontend Technologies</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,typescript,bootstrap,tailwind&theme=dark" /></td>
     </tr>
     <tr>
         <td><strong>Backend Development</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,nodejs,express&theme=dark" /></td>
     </tr>
     <tr>
-        <td><strong>Developer Tools</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode&theme=dark" /></td>
+        <td><strong>Database Technologies</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></td>
     </tr>
     <tr>
-        <td><strong>Design Tools</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva,adobephotoshop,adobepremierepro,excalidraw&theme=dark" /></td>
+        <td><strong>Programming Languages</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java&theme=dark" /></td>
     </tr>
-<tr>
-        <td><strong>Deployment Platforms</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,github&theme=dark" /></td>
-    </tr>
+    <tr>
+    <td><strong>Developer Tools</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+        <img height="40" src="https://paulstamatiou.com/_next/image?url=%2Fgear%2Fcursor-app-icon.png&w=3840&q=75" alt="Cursor" />
+        <img height="40" src="https://media.tekpon.com/2025/04/Trae-AI-logo.webp" alt="TRAE" />
+    </td>
+</tr>
+    <tr>
+    <td><strong>Design Tools</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=figma&theme=dark" />
+        <img height="40" src="https://yt3.googleusercontent.com/M7S2_gnnaJT5buAfWW4tanX9NELz5PddzNCQgnRV1oP8t12s5pg4cYKMChkEoh8gtGX__KtcYKU=s900-c-k-c0x00ffffff-no-rj" alt="Canva" />
+    </td>
+</tr>
+    <tr>
+    <td><strong>Deployment Platforms</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=vercel,github&theme=dark" />
+        <img height="40" src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="Render" />
+    </td>
+</tr>
 <tr>
     <td><strong>Operating Systems</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=windows&theme=dark" /></td>
@@ -663,6 +641,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
