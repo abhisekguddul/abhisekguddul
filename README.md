@@ -467,8 +467,10 @@
       <img src="https://github.com/user-attachments/assets/e3063dee-9440-43ac-aab2-a8923173fb18" width="100px" height="100px" />
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/dfa3e604-1ff8-444d-aacc-02602b9e2521" width="100px" height="100px" />
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/4985f5d8-edc3-4eff-aa35-180e8b78b929" width="100px" height="100px" />
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
     </td>
@@ -630,6 +632,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
