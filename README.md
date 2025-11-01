@@ -333,7 +333,7 @@
       </p>
    <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" />
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhisek2004&theme=github-dark" alt="GitHub Streak" /></a>
       </p>          
   <h3 align="center"><strong>🔝 Top Contributed Repo</strong></h3>
       <p align="center">
@@ -538,8 +538,6 @@
 
 ![Screenshot 2025-01-15 151253](https://github.com/user-attachments/assets/4ce05b06-515b-4dab-a7f9-0bfbafe3c854)
 
-
-
 </details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -554,8 +552,6 @@
 </a>
 </p>
 </td>
-
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -666,3 +662,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
