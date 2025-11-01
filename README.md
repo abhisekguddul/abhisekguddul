@@ -592,12 +592,10 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
-
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me 🤝
+
 <div align="center">
   
 <a href="mailto:abhisek2004panda@gmail.com" target="_blank">
@@ -623,9 +621,15 @@
 <img src="./dev_to.png" width=50 height=50 alt="abhisek_panda" style="margin-bottom: 5px;" />
 </a>
 </div>
+
+<div align="center">
+  <!-- <a href="https://www.linkedin.com/in/abhisekpanda2004/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a> -->
+  <!-- <a href="mailto:abhisek2004panda@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> -->
+  <a href="https://discordapp.com/users/abhisek2004panda_"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Abhisek Panda#1234" ></a>
+<a href="https://codolio.com/profile/abhisek2004"><img src="https://img.shields.io/badge/Codolio-d5d5d5?style=for-the-badge&logo=codolio&logoColor=0A0209" alt="Abhisek2004's Codolio Profile" ></a>
+</div>
+
 <br/>
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
@@ -643,42 +647,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
