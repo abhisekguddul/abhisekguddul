@@ -477,7 +477,7 @@
   </tr>
   <tr>
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-         <img src="https://github.com/user-attachments/assets/a84aa69b-fef7-4e49-8687-6f90bb151842" width="100px" height="100px" />
+         <img src="https://github.com/user-attachments/assets/57b02fc2-94f1-4c28-908f-1d2d3838bef4" width="100px" height="100px" />
     </td>
   </tr>
 </table>
@@ -643,6 +643,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
