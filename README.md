@@ -32,24 +32,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Front-End+Enthusiast;MERN+Stack+Developer;Open+Source+Enthusiast;Tech+Innovator" alt="Roles" />
 </div>
 
-### 🌟 **MERN, Java & DSA** | CSE Final Year | Tech Innovator
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhisekpanda2004/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:abhisek2004panda@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/abhisek2004panda_"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Abhisek Panda#1234" ></a>
-<a href="https://codolio.com/profile/abhisek2004"><img src="https://img.shields.io/badge/Codolio-d5d5d5?style=for-the-badge&logo=codolio&logoColor=0A0209" alt="Abhisek2004's Codolio Profile" ></a>
-
-
-</div>
-<br>
-<p align="center">
-</p>
-
-
-<p align="center">"Hi I’m 𝐀𝐛𝐡𝐢𝐬𝐞𝐤, My name signifies 'anointing' or 'consecration.' I’m on a journey to build a fulfilling career with dedicated and passionate people who can help me discover my potential. I’m excited to be a key player in a creative and dynamic environment, using my skills to make a positive impact along the way."</p>
-
-### <p align="center">My Technical Skills</p>
+<!--### <p align="center">My Technical Skills</p>
 
 <p align="center">
   <a href="https://portfolio-nine-rosy-72.vercel.app/">
@@ -59,7 +42,7 @@
 
 <p align="center">
   <a href="https://portfolio-nine-rosy-72.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=mysql,react,nodejs,express,mongodb,git,github" /> 
+    <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,express,mongodb,git,github" /> 
   </a>
 </p>
 
@@ -70,7 +53,7 @@
              width="100%" 
              style="filter: sepia(1) saturate(5) hue-rotate(20deg);"/>
     </a>
-</p>
+</p>-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -633,6 +616,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
