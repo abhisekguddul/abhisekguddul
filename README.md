@@ -272,13 +272,15 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<hr>
+<!-- <hr> -->
 <div align="center">
+    
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Arsenal
 
+<details>
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> 📊 GitHub Stats 📊
 
-<details>
 
 <!--<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>-->
 <table width="100%">
@@ -292,21 +294,15 @@
 <!--   <h3 align="center"><strong>Mᴏsᴛ Cᴏᴍᴍɪᴛ Lᴀɴɢᴜᴀɢᴇ</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisek2004&theme=github_dark" />
-      </p> -->
-        
+      </p> 
    <h3 align="center"><strong>Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisek2004&theme=github_dark" />
-      </p>
+      </p>-->
   <h3 align="center"><strong>Pʀᴏᴅᴜᴄᴛɪᴠᴇ Tɪᴍᴇ</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
       </p>
-  
- <!--  <h3 align="center"><strong>Additional Stats</strong></h3> -->
-<!--       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-      </p> -->
       
    <h3 align="center"><strong>Pʀᴏfɪʟᴇ Dᴇᴛᴀɪʟs</strong></h3>
       <p align="center">
@@ -320,7 +316,12 @@
       </p>
     </td>
    <td width="50%">
-<h3 align="center"><strong>GitRoll Profile</strong></h3>
+<!-- <h3 align="center"><strong>GitRoll Profile</strong></h3> -->
+<h3 align="center">
+  <strong>
+    <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
+  </strong>
+</h3>
 <p align="center">
   <a href="https://gitroll.io/profile/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2?theme=tokyoNight" alt="GitRoll Profile Badge" />
@@ -336,7 +337,8 @@
       </p>          
   <h3 align="center"><strong>🔝 Top Contributed Repo</strong></h3>
       <p align="center">
-        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+        <!-- <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /> -->
+         <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&limit=20&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
       </p>
     </td>
   </tr>
@@ -637,6 +639,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
 
