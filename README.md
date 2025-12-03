@@ -478,7 +478,13 @@
   <tr>
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
          <img src="https://github.com/user-attachments/assets/57b02fc2-94f1-4c28-908f-1d2d3838bef4" width="100px" height="100px" />
-    </td>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+         <img src="https://github.com/user-attachments/assets/a1cd8601-6ce2-46dc-8207-96a56f473733" width="100px" height="100px" />
+      </td> 
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+         <img src="https://github.com/user-attachments/assets/ae81d4c9-9091-4465-8942-ba7045fa13f5" width="100px" height="100px" />
+      </td> 
   </tr>
 </table>
 
@@ -662,4 +668,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
