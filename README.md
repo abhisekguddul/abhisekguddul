@@ -540,6 +540,23 @@
         x16 (MASTER)
 </td>
   </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src="https://github.com/user-attachments/assets/1c342f9a-7686-4d5a-84ae-aadad46907ab" width="100px" height="100px"  /> 
+            <br>
+        x4 ( ACHIEVER )
+    </td>
+        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src="https://github.com/user-attachments/assets/710d145b-51e2-40dd-aeda-746059d2fa6d" width="100px" height="100px" /> 
+            <br> 
+        x4 (SPECIALIST)
+    </td>
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+  <img src="https://github.com/user-attachments/assets/dde2a2af-f379-476a-b9f5-953921eeb303" width="100px" height="100px" /> 
+          <br> 
+        x4 (MASTER)
+</td>
+  </tr>
 </table>
 
 ![Screenshot 2025-01-15 151253](https://github.com/user-attachments/assets/4ce05b06-515b-4dab-a7f9-0bfbafe3c854)
@@ -668,5 +685,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
