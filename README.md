@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="80%" width="100%">
+![3](https://github.com/user-attachments/assets/eefc624f-76f7-4b73-b9a0-e13638e2200b)<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="80%" width="100%">
 
 <!--![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)-->
 
@@ -495,6 +495,12 @@
   <tr>
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
          <img src="https://github.com/user-attachments/assets/c172f97a-f1aa-4c23-82a9-266289a74896" width="100px" height="100px" />
+      </td> 
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+         <img src="https://github.com/user-attachments/assets/a7c55410-d9ca-45ce-914b-390f3ee547b2" width="100px" height="100px" />
+      </td> 
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+         <img src=" " width="100px" height="100px" />
       </td> 
   </tr>
 </table>
