@@ -1,5 +1,3 @@
-![3](https://github.com/user-attachments/assets/eefc624f-76f7-4b73-b9a0-e13638e2200b)<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="80%" width="100%">
-
 <!--![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)-->
 
 <!-- <h3 align="center"> MERN , JAVA & DSA || Web Developer || 🌟 Frontend Enthusiast || BTech CSE</h3> -->
