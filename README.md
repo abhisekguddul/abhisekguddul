@@ -500,6 +500,12 @@
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
          <img src="https://github.com/user-attachments/assets/023b7d91-5a4e-4e3a-9013-09589b2a2741" width="100px" height="100px" />
       </td> 
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+         <img src="https://github.com/user-attachments/assets/10578232-c4da-4aac-9645-8dc175321c18" width="100px" height="100px" />
+      </td> 
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+         <img src="https://github.com/user-attachments/assets/f580ed64-d745-413d-af4b-74e8d4e8ac4f" width="100px" height="100px" />
+      </td> 
   </tr>
 </table>
 
