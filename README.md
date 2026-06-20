@@ -132,25 +132,24 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Digital Badges
 
 <h2 align="center">🏆 GSSoC Badge 🪶✨</h2>
-
 <div style='display:flex; align-items:left; gap: 10px;' align='center'>	
-   
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>  
+  <img src="https://github.com/user-attachments/assets/6d1d1251-8458-4e5a-975d-97094a1d0a44" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/38560a3f-af3b-4ff7-8426-e3e0f7c26f0c" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/a8def5c8-cead-41b3-aa50-7b0c424fc162" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/773286c0-e048-4455-b86b-b52262bf41cd" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/e1cd4e64-4b52-4182-bc35-5bae190b064b" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/91d8fc6f-47fe-4e11-9836-047d8efda917" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/e96d7f21-7c2a-4356-8a94-5fdb5fba2897" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/75fd7001-52fe-4740-a0d1-0cbd3e552e3c" width="105px" height="105px" />
+  <img src="https://github.com/user-attachments/assets/94209783-f8af-4b69-88aa-0b3712b95216" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/2781cc7e-563d-4f70-b00a-aad87e012247" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/194e1768-b51c-4d31-ac84-d7d3f1595c73" width="105px" height="105px" />
+  <img src="https://github.com/user-attachments/assets/2bca908e-8c07-433a-b4fa-2129282f4ac4" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/f1000da9-0f6e-45cf-b8e7-b83846fcacd6" width="100px" height="100px" /></a>  
     <br>
-    <img src="https://github.com/user-attachments/assets/f0a7cad5-aa85-40e5-8b24-9a7072801a75" width="100px" height="100px" /></a>
+  <img src="https://github.com/user-attachments/assets/7f1c8faa-b794-4f03-b853-0af9a6d33f71" width="100px" height="100px" /></a>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
